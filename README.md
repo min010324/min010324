@@ -17,11 +17,11 @@
 <!--
 <p align='center'><strong>👋About me</strong></p>
 <p align='center'>
-  <!-- Portfolio -->
+  Portfolio 주석 처리
   <a href="https://substantial-radish-aee.notion.site/YOO-SEUNGAH-f8ec26cbeada4ee48ea40a940330324d?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-  <!-- Tistory -->
+  Tistory
   <a href="https://happybplus.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
-  <!-- Instagram -->
+  Instagram 
   <a href="https://www.instagram.com/happyy_bppl.yoo?igsh=Ym9wMHVhdHFkbmlw&utm_source=qr"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 -->
@@ -86,7 +86,7 @@
 -->
 
 <!-- solved.ac 프로필 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysa8497)](https://solved.ac/jeongmin0103242)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongmin0103242)](https://solved.ac/jeongmin0103242)
 
 <!-- 경험 Todo-->
 <!--
