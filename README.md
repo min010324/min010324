@@ -86,7 +86,7 @@
 -->
 
 <!-- solved.ac 프로필 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongmin0103242)](https://solved.ac/jeongmin0103242)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongmin010324)](https://solved.ac/jeongmin010324)
 
 <!-- 경험 Todo-->
 <!--
