@@ -1,7 +1,8 @@
-<!-- header -->
+<!-- header 
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Jeong Min's+Github!👋&fontSize=40"/>
 </p>
+-->
 
 <!-- Contact badge -->
 <p align='center'><strong>📧Contact</strong></p>
@@ -106,6 +107,14 @@
 </ul>
 
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=min010324&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/min010324"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 <!--
 **min010324/min010324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
