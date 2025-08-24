@@ -106,10 +106,10 @@
   <li>2021.05 <strong>정보처리기능사 - 한국산업인력공단</strong></li>
 </ul>
 
-
+  
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=min010324&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/min010324"
+    src="https://render.gitanimals.org/lines/min010324?pet-id=745555139234469978"
     width="600"
     height="120"
   />
